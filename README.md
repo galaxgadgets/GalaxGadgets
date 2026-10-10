@@ -1,2 +1,0 @@
-# Gadgets
-Plan de GalaxGadgets
