@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**galaxgadgets/GalaxGadgets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://galaxgadgets.github.io/GalaxGadgets/Plan%20GalaxGadgets%20CHATGPT.html">
+    <button style="padding: 10px 20px; background-color: #10a37f; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin-right: 10px;">ChatGPT</button>
+  </a>
+  <a href="https://galaxgadgets.github.io/GalaxGadgets/Plan%20GalaxGagdets%20CLAUDE.html">
+    <button style="padding: 10px 20px; background-color: #d97706; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin-right: 10px;">Claude</button>
+  </a>
+  <a href="https://galaxgadgets.github.io/GalaxGadgets/Plan%20GalaxGagdets%20GEMENI.html">
+    <button style="padding: 10px 20px; background-color: #1a73e8; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">Gemini</button>
+  </a>
+</p>
