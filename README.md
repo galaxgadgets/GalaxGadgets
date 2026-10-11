@@ -4,6 +4,8 @@
 
   # ⚡ GalaxGadgets
 
+  ---
+
   **Plan Estratégico de E-commerce y Arquitectura**
 
   *Soluciones innovadoras y gestión integral de productos tecnológicos.*
