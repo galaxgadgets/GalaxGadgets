@@ -3,14 +3,14 @@
   <!-- Logo de GalaxGadgets -->
   <img src="./IMG_6688.JPG" alt="GalaxGadgets Logo" width="220" style="border-radius: 12px; margin-bottom: 15px;" />
 
-  # ⚡ GalaxGadgets
+   ## ⚡ GalaxGadgets
 
   **Plan Estratégico de E-commerce & Arquitectura**  
   *Soluciones innovadoras y gestión integral de productos tecnológicos.*
 
   ---
 
-  ### 👤 Información Institucional
+  ## 👤 Información Institucional
 
   **CEO & Fundador:** Juan José Charry Naranjo  
   **Perfil:** Ingeniero Informático con experiencia en E-commerce, Sistemas de Hardware y Software.  
@@ -50,7 +50,7 @@ A continuación se detallan los accesos directos a las diferentes propuestas té
 
 <div align="center">
 
-### 💬 ¿Tienes alguna consulta o propuesta comercial?
+## 💬 ¿Tienes alguna consulta o propuesta comercial?
 
 Si deseas más información sobre el proyecto o colaborar en el desarrollo de **GalaxGadgets**, ponte en contacto directo:
 
