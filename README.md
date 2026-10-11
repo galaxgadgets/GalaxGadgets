@@ -21,7 +21,6 @@
 
 ## 👤 Información Institucional
 
-| | |
 | :--- | :--- |
 | **CEO y Fundador** | Juan José Charry Naranjo |
 | **Perfil** | Ingeniero Informático con experiencia en e-commerce, sistemas de hardware y software |
