@@ -21,6 +21,7 @@
 
 ## 👤 Información Institucional
 
+| | |
 | :--- | :--- |
 | **CEO y Fundador** | Juan José Charry Naranjo |
 | **Perfil** | Ingeniero Informático con experiencia en e-commerce, sistemas de hardware y software |
@@ -53,6 +54,13 @@ Accesos directos a las propuestas técnicas y comerciales:
 
 ## 💬 ¿Tienes alguna consulta o propuesta comercial?
 
-Si quieres más información sobre el proyecto o colaborar en el desarrollo de **GalaxGadgets**, escríbeme directamente.
+Si quieres más información sobre el proyecto o colaborar en el desarrollo de **GalaxGadgets**, escríbeme directamente:
+
+<a href="https://wa.me/573006431996">
+  <img src="https://img.shields.io/badge/📱_Escríbenos_por-WhatsApp-25D366?style=for-the-badge" alt="Contactar por WhatsApp" />
+</a>
+<a href="mailto:juanjocha18@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Escríbenos_por-Correo-EA4335?style=for-the-badge" alt="Contactar por correo electrónico" />
+</a>
 
 </div>
